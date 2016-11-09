@@ -1,5 +1,5 @@
 # WAP
-<img src="http://www.pixiv.net/whitecube/user/3219949/illust/56260187.png" height = "400">
+<img src="http://i67.tinypic.com/20sbz15.jpg" height = "400">
 
 ## Webtoon Alarm Project
 
